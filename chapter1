@@ -19,7 +19,12 @@ After completing this chapter students will be able to:
 
 
 ## Key Terms
-
+variable
+  : Named values that are subject to change throughout the program.A memory location 
+Variable declaration
+   : Lets the compiler know the data type being held in the computer’s  memory.
+Output statement
+  : An output on the standard output device using cout and <<
 
 ## Programming Exercises
 
