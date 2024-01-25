@@ -21,10 +21,14 @@ of code.
 Afterwords in chapter 1 we go over simple data types and how to use them in assignment statemenets. 
 A simple Data type is a group of different types of data by specific value or 
 certain types of mathematical and logical operations. Data types can also differ  
-programming language such as  lowercase, numbers, and punctuation. Futhermore we also explore how to use  
-different arithmetic operators, precedence, and expressions. This arithemtic system to create advanced mathematical
-C++ programs. The power to create assignments, and input statements witin the use of variables within statements which provide 
+programming language such as  lowercase, numbers, and punctuation. Futhermore we 
+also explore how to use  different arithmetic operators, precedence, and expressions.
+This arithemtic system to create advanced mathematical C++ programs. 
+The power to create assignments, and input statements witin the use of variables within statements which provide 
 hands on display to its users. In C++ we seperate type conversion, ans type casting to provide ensuring data integerity. 
+
+Finally, we learn to identify common syntax errors and explore debugging techniques to resolve issues and ensure smooth program execution.
+Afterwords you will learn how to write a basic C++ program.  
 
 
 
