@@ -21,6 +21,8 @@ After completing this chapter students will be able to:
 ## Key Terms
 variable
   : Named values that are subject to change throughout the program.A memory location 
+Function
+  : A collection of statements including variables and operators that when ran correctly accomplishes a task
 Data Structures
   : Ways to organize data to support more efficient operations
 Variable declaration
