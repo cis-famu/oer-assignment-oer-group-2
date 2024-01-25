@@ -37,6 +37,21 @@ Afterwords you will learn how to write a basic C++ program.
 ## A section per topic
 
 ### Review Questions
+1. True/False: Functions act as the molecular block of code.
+
+
+2.  Identifiers can consist of letters, , and underscores.
+
+
+3. Which of the following is not one of the best practices for naming identifiers?
+
+A. Descriptive Names
+
+B. Consistency
+
+C.Not avoiding Abbreviations.
+
+D. Using Function Names as Actions
 
 
 
