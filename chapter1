@@ -37,6 +37,8 @@ Function
   : A collection of statements including variables and operators that, when run correctly, it accomplish a task
 Initialized
   : The first time a value is placed in for a variable
+Keywords(reversed words)
+  : Words that have predefined meanings and functionalities within the programming language
 Data Structures
   : Ways to organize data to support more efficient operations
 Variable declaration
@@ -48,7 +50,7 @@ Loops
 Assignment operator
   : Assigns a value to a variable
 Integer v.s. Floating point number
-  : Integer is a number with no decimal therefore when multiplied or divided in code you get no decimals ,but when using a Floating point number you have decimal points and therefore so does you're product or quotient
+  : Integer is a number with no decimal; therefore when multiplied or divided in code, you get no decimals , but when using a Floating point number, you have decimal points, and therefore, so does you're product or quotient
 Conditional Operator (If else)
   : if a given condition is satisfied, then the code in the conditional segment is run, but if not, it is ignored
 Output statement
@@ -57,8 +59,16 @@ Software
   : Program written to perform specific tasks
 
 ## Programming Exercises
+**Grade Calculator**
 
+A program calculates grades based upon a set of input numbers  and gives a grade corresponding to the scale:
+A 90-100
+B 80-89
+C 70-79
+D 60-69
+F 0-59
 
+Timmy is trying to calculate his semester grade average using the grades he received from his six classes. His grades comprised 86.3, 95.7, 98.2, 76.5, 80.0, and 72.3. To calculate his grade point average, he must add all of these grades and divide them by 6.0 to receive a floating point number value for his semester GPA.
 ## References
 GeeksforGeeks https://www.geeksforgeeks.org/cpp-while-loop/ 
 GeeksforGeeks https://www.geeksforgeeks.org/cpp-for-loop/?ref=lbp
