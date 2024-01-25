@@ -36,6 +36,34 @@ Afterwords you will learn how to write a basic C++ program.
 
 ## A section per topic
 
+Elements of a computer system
+A computer is an electronic device with capabilities to perform tasks. Many different components make the computer and here is a summary.
+
+
+Central Processing Unit (CPU): Often referred to as the brain of the computer, the CPU executes instructions stored in the computer's memory and performs calculations.
+
+Memory (RAM): Random Access Memory (RAM) is  memory used to store data and programs that are currently being used. It gives fast access to the CPU.
+
+Storage Devices: These include hard drives, solid-state drives (SSDs), and other storage media. They are used for long-term storage of data, programs, and the operating system.
+
+Motherboard: The motherboard is the main circuit board that houses the CPU, memory, and other essential components. It provides the communication pathways between these components.
+
+Input Devices: Devices such as keyboards, mice, and touchscreens allow users to input data and commands into the computer.
+
+Output Devices: Devices like monitors, printers, and speakers display or provide results from the computer's processes.
+
+Power Supply: Converts electrical power from an outlet into the appropriate form needed by the computer components.
+
+Peripheral Devices: Additional devices like printers, scanners, and external drives that can be connected to the computer to extend its functionality.
+
+Graphics Processing Unit (GPU): Specialized for rendering graphics and performing parallel processing tasks. It is crucial for graphics-intensive applications and tasks like gaming and video editing.
+
+Operating System: Software that manages the computer's hardware and provides a user interface. Examples include Windows, macOS, and Linux.
+
+Network Interface Card (NIC): Allows the computer to connect to a network, enabling communication with other computers and access to the internet.
+
+Bus System: The system of communication pathways on the motherboard that allows data to be transferred between components.
+
 ### Review Questions
 1. True/False: Functions act as the molecular block of code.
 
