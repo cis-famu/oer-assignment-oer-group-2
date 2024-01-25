@@ -12,6 +12,23 @@ After completing this chapter students will be able to:
 8. Write a basic C++ program 
 
 ## Introduction
+In Chapter 1 we explore the basic concepts, language, and the core foundation for C++ beginners. 
+We introduce basic C++ concepts such as Identifiers, special symbols, and functions. 
+Identifiers act to assign variables specific unique names; While special symbols within C++ 
+help define variables and in the program for advanced coding. Functions act as the molecular block 
+of code. 
+
+Afterwords in chapter 1 we go over simple data types and how to use them in assignment statemenets. 
+A simple Data type is a group of different types of data by specific value or 
+certain types of mathematical and logical operations. Data types can also differ  
+programming language such as  lowercase, numbers, and punctuation. Futhermore we also explore how to use  
+different arithmetic operators, precedence, and expressions. This arithemtic system to create advanced mathematical
+C++ programs. The power to create assignments, and input statements witin the use of variables within statements which provide 
+hands on display to its users. In C++ we seperate type conversion, ans type casting to provide ensuring data integerity. 
+
+
+
+
 
 ## A section per topic
 
