@@ -16,25 +16,43 @@ After completing this chapter students will be able to:
 
 
 ## Chapter Summary
-
-
+-Strings are used by double quotes and used as storage devices
+-You must save code in secondary storage because programs and data must be loaded into the main memory to process, but they are lost when the computer is turned off, so to keep them, you must transfer them to secondary storage.
+-Input and Output devices are essential in code and out of code; input devices in the real world consist of the keyboard of a computer, mouse, scanner, and camera. Output devices consist of a monitor and printer.
+-Programming is a process of problem-solving that is done with many different techniques, such as Algorithm
+-Structured Programming and Object-Oriented Programming are the two most popular approaches to programming design. A structured program consists of dividing problems into multiple subproblems,the solutions to all of these subproblems are then combined to solve the overall problem. Object-oriented programming is started by first identifying the components or objects that form the solution and then determining how these objects interact with each other.
+-The compiler ignores all comments and comments are words that the program is not told to run
+-A named constant must be initialized when it is declared and a variable cannot be used until it is declared
+-The arithmetic operators in C++ are addition (+), subtraction (-), multiplication (*), division (/), and modulus (%).
+-Integral data types are classified into the following categories: char, short, int, long, bool, unsigned char, unsigned short, unsigned int, unsigned long, long long, and unsigned long long.
+-The three data types that can manipulate decimals are float, double, and long double
+- In C++, << is the stream insertion operator.
+-Every variable must have a name, value, data type, and size
 ## Key Terms
 variable
   : Named values that are subject to change throughout the program.A memory location 
 Function
-  : A collection of statements including variables and operators that when ran correctly accomplishes a task
+  : A collection of statements including variables and operators that, when run correctly, it accomplish a task
+Initialized
+  : The first time a value is placed in for a variable
 Data Structures
   : Ways to organize data to support more efficient operations
 Variable declaration
-  : Lets the compiler know the data type being held in the computer’s  memory.
+  : Lets the compiler know the data type being stored in the computer’s  memory.
+String
+  : A storage device identified by double quotations
 Loops
-  : For-loop and while-loop can execute segments of code repeatedly without having to repeatedly type them out
+  : For-loop and while-loop can execute segments of code repeatedly without having to type them out repeatedly
 Assignment operator
   : Assigns a value to a variable
+Integer v.s. Floating point number
+  : Integer is a number with no decimal therefore when multiplied or divided in code you get no decimals ,but when using a Floating point number you have decimal points and therefore so does you're product or quotient
 Conditional Operator (If else)
   : if a given condition is satisfied, then the code in the conditional segment is run, but if not, it is ignored
 Output statement
   : An output on the standard output device using cout and <<
+Software
+  : Program written to perform specific tasks
 
 ## Programming Exercises
 
