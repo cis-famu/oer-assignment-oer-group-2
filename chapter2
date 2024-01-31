@@ -24,4 +24,26 @@ After completing this chapter students will be able to:
 
 ## Programming Excersices (Kam)
 
+This program is supposed to display the product of n multiplied by n - 1. Find the logic and syntax errors. 
+
+#include <iostream>
+
+int main() {
+    int n;
+
+   
+    cout << "Enter a positive integer: "
+    cin >> n;
+
+    
+    int result = n * (n + 1);  
+
+    cout << "The product of " << n << " and " << n - 1 << " is: " << result << :endl;
+
+    return 0;
+}
+
+Write a program that allows the user to input the temperature in Celsius and outputs the temperature in Kelvin and Fahrenheit. 
+
+
 ## References (EVERYONE)
