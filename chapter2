@@ -16,11 +16,46 @@ After completing this chapter students will be able to:
 
 ## A Section Per Topic (CAM)
 
-## Review Questions (ANDREW)
+## Review Questions 
 
-## Summary (EVERYONE)
+## Summary (ANDREW)
+-To use cin and cout, the program must include the header file iostream.
+-Because cin and cout are already defined and have specific meanings, you should never redefine them in programs to avoid confusion.
+-The extraction operator >> is binary and thus takes two operands. The left-side operand must be an input stream variable, such as cin. Because the purpose of an input statement is to read and store values in a memory location.
+-An input stream is a stream from a source to a computer, and an output stream is a stream from a computer to a destination.
+-To use the manipulators setprecision, setw, and setfill, the program must include the header file iomanip.
+-The function get is used to read data on a character-by-character basis and does not skip any whitespace characters.
+-The function ignore is used to skip data in a line.
+-The value of the expression intExp specifies the maximum number of characters to be ignored in a line.
+-The variable cin can access the stream function get, which reads character data. The get function inputs the very next character, including whitespace characters, from the input stream and stores it in the memory location indicated by its argument.
+-The function setw is a manipulator that formats the output of an expression in a specific number of columns; the default output is right-justified
+-If the number of columns specified in the setw manipulator exceeds the number of columns required by the next expression, the output is right-justified. To left-justify the output, you use the manipulator left.
+-The function putback puts the last character retrieved by the function back into the input stream.
+-The function peek returns the next character from the input stream but does not remove the character from the input stream.
+-Attempting to read invalid data into a variable causes the input stream to enter the fail state.
+-Once an input failure has occurred, you use the function clear to restore the input stream to a working state.
+-The header file fstream contains the definitions of ifstream and ofstream. Ifsteam meaning in and ofstream meaning out.
+-A single quotation mark is a digit separator.
 
 ## Key Terms (Andrew)
+Stream
+    : An infinite sequence of characters from a source to a destination
+Cin
+    : The common input
+Cout
+    : The common output
+Setw
+    : A manipulator that formats the output of an expression in a specific number of columns; the default output is right-justified
+Pow
+    : The pow function can be used to calculate x^y in a program, from the form (x,y)
+Putback
+    : Puts the last character retrieved by the function back into the input stream
+Peek
+    : Peek returns the next character from the input stream but does not remove the character from the input stream.
+Fixed
+    : A manipulator that outputs floating-point numbers in the fixed decimal format.
+Showpoint
+    : A manipulator that outputs floating-point numbers with a decimal point and trailing zeros.
 
 ## Programming Excersices (Kam)
 
