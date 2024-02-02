@@ -13,6 +13,12 @@ After completing this chapter, students will be able to:
     Write data to a file (include examples)
 
 ## Introduction (Jaedon) TUESDAY
+In Chapter 2, much of of C++'s input/output (I/O) basics were covered. Things like using cin and cout 
+to handle data coming in and going out of your program were explained and examples of how this works were shown. 
+This chapter goes deeper into the world of I/O operations. You'll explore statements that grab input from the standard 
+input device and showcase output on the standard output device. Plus, you'll learn about formatting output using manipulators, 
+which will add some some formatting and stylingn to to your program's results. You'll also discover the limits of standard 
+I/O operations and how to break free from them. In short, this chapter goes deep into the details of using I/O devices in C++ code.
 
 ## A Section Per Topic (CAM)
 
