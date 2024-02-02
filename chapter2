@@ -18,14 +18,14 @@ After completing this chapter, students will be able to:
 
 ## Review Questions 
 1. True/False: When using cin and cout you must #include <iostream> in the header.
-2. In C++ , ____ is the stream insertion operator.
-3. Which operator can you only use with integer data types?
-a) +
-b) *
-c) -
-d) %
+2. In C++ , an infinite sequence of characters from a source to a destination is considered a ________.
+3. Which is not a manipulator?
+a) cin
+b) setw
+c) showpoint
+d) fixed
 
-** Answers 1.True 2.<< 3. d) %
+** Answers 1. True 2. stream 3. a) cin
 
 ## Summary
 -To use cin and cout, the program must include the header file iostream.
