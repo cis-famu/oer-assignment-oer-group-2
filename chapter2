@@ -24,6 +24,18 @@ I/O operations and how to break free from them. In short, this chapter goes deep
 
 Comments: Used to identify the authors of the program, give the dates whem its modified, and give a brief explanation of the program.
 
+Special symbols: The smallest unit for a program written in ant langauge is a token. Thry are divded into symbols, word symbols, and identifiers 
+
+Keywords: Words or symbols that cannot be used for anything but their intedned use. 
+
+Identifiers: The names of things that appear in programas such as: variables, constants, and functions. 
+
+White spaces: They seperate special symbols, reserved words, and identifiers.
+
+Data types: A set of vaules together with a set of allowed operations.
+
+Intergal: Data type that deals with 
+
 ## Review Questions 
 1. True/False: When using cin and cout you must #include <iostream> in the header.
 2. In C++ , an infinite sequence of characters from a source to a destination is considered a ________.
