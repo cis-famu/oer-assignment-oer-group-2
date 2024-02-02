@@ -22,6 +22,8 @@ I/O operations and how to break free from them. In short, this chapter goes deep
 
 ## A Section Per Topic (CAM)
 
+Comments: Used to identify the authors of the program, give the dates whem its modified, and give a brief explanation of the program.
+
 ## Review Questions 
 1. True/False: When using cin and cout you must #include <iostream> in the header.
 2. In C++ , an infinite sequence of characters from a source to a destination is considered a ________.
