@@ -1,7 +1,7 @@
 # OER CHAPTER 2
 
 ## OBJECTIVES
-After completing this chapter students will be able to:
+After completing this chapter, students will be able to:
 
     Identify input and output streams
     Read data from the standard input device
@@ -27,10 +27,11 @@ d) %
 
 ** Answers 1.True 2.<< 3. d) %
 
-## Summary (ANDREW)
+## Summary
 -To use cin and cout, the program must include the header file iostream.
 -Because cin and cout are already defined and have specific meanings, you should never redefine them in programs to avoid confusion.
 -The extraction operator >> is binary and thus takes two operands. The left-side operand must be an input stream variable, such as cin. Because the purpose of an input statement is to read and store values in a memory location.
+-cerr and clog are also output streams, so they essentially work like cout, with the only difference being that they identify streams for specific purposes: error messages and logging
 -An input stream is a stream from a source to a computer, and an output stream is a stream from a computer to a destination.
 -To use the manipulators setprecision, setw, and setfill, the program must include the header file iomanip.
 -The function get is used to read data on a character-by-character basis and does not skip any whitespace characters.
@@ -47,7 +48,7 @@ d) %
 -The header file fstream contains the definitions of ifstream and ofstream. Ifsteam meaning in and ofstream meaning out.
 -A single quotation mark is a digit separator.
 
-## Key Terms (Andrew)
+## Key Terms
 Stream
     : An infinite sequence of characters from a source to a destination
 Cin
@@ -69,7 +70,7 @@ Showpoint
 Preprocessor
     : Gives instructions to the compiler to preprocess the information before actual compilation starts.
 
-## Programming Excersices (Kam)
+## Programming Excersices
 
 This program is supposed to display the product of n multiplied by n - 1. Find the logic and syntax errors. 
 
@@ -78,7 +79,7 @@ This program is supposed to display the product of n multiplied by n - 1. Find t
 int main() {
     int n;
 
-   
+
     cout << "Enter a positive integer: "
     cin >> n;
 
@@ -94,3 +95,7 @@ Write a program that allows the user to input the temperature in Celsius and out
 
 
 ## References (EVERYONE)
+Basic Input/Output. Cplusplus. https://cplusplus.com/doc/tutorial/basic_io/
+Manipulators in C++ with Examples. GeeksForGeeks. https://www.geeksforgeeks.org/manipulators-in-c-with-examples/
+C++ Preprocessor. Tutorialspoint. https://www.tutorialspoint.com/cplusplus/cpp_preprocessor.htm 
+
