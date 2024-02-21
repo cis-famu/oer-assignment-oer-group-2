@@ -49,7 +49,7 @@ output. For example: With 'cout << setw(5) << 12;' the output would become '   1
 ## Review Questions
 
 ## Summary
--
+-if/else statements allow you to create a statement that give two different outcomes depending on the responses
 -A sequence of statements enclosed between curly braces, { and }, is called a compound statement or block of statements. A compound statement is treated as a single statement.
 -When C++ evaluates a logical expression, any nonzero value is treated as TRUE
 ## Key Terms
