@@ -13,9 +13,9 @@ After completing this chapter, students will be able to:
 ##Introduction
 
 In Chapter 3 we go over the basic concepts of functions, different types of functions, and their specific uses for C++. 
-As well for functions; we also go over different operators such as the equality operator or the assignment operator. The equality operator determines 
-if two expressions are equal. Furthermore we go over logical expressions which is a expression that evaulates true or false in code. It also decides whether 
-or not to excute the state
+As well for functions; we also go over different operators such as the equality operator,assignment operator, or the BooLean operator. 
+The equality operator determines if two expressions are equal. Furthermore we go over logical expressions which is a expression that evaulates true or false in code. 
+It also decides whether or not to excute the state. 
 ## A Section Per Topic
 
 
