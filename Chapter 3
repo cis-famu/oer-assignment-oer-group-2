@@ -14,6 +14,38 @@ After completing this chapter, students will be able to:
 
 ## A Section Per Topic
 
+Extraction Operator: Looks like ">>" and is normally used for cin functions. It is used to extract data from a stream, such as keyboard 
+input or a file, and store it into a variable of a specified type. It skips any leading whitespace characters.
+
+Get Function: The get function is similar to the extraction operator, but it reads the whitespace of an input statement.
+
+Ignore Function: Ignore does exactly what it sounds like it does. It excludes any unwanted data from being used in an input stream. It can be
+given parameters to ignore certain parts of an input function.
+
+Putback Function: Putback is a function that puts a single character back into the input stream. It allows you to basically undo an extraction
+operation that was done previously. This/these character(s) can be used at a later time if needed.
+
+Peek Function: This function allows the program to basically look at the next character in the input stream without extracting it from said stream.
+
+Dot Notation Warnings: Be careful of how you type in these functions in a program! It is important to put in functions such as "cin.get(ch)" exactly
+as provided. If you don't (such as missing parentheses or the dot between cin and get), it will immediately cause an error in the program.
+
+Clear Function: A very important function that prevents errors from happening, such as trying to read a character from a stream when the input
+was an integer. It returns the input stream to a working state by throwing the error-causing input stream back out. Once it is back out in the stream,
+the ignore function must be used to essentially remove the defunct input.
+
+Setprecision Operator: An operator that is used to specify the quantity of numbers that is output. For example, a program is expecting to output
+the number 2057. setprecision(2) would change that value to 57, which is two decimal places before the original decimal place.
+
+Fixed Manipulator: Used normally with setprecision, this basically prevents the setprecision operator from reading before the decimal point. It
+will tell the program to read a certain number of numbers *after* the decimal point. Example: The number 31.4089. "cout >> fixed >> setprecision(2);" 
+will output 31.40.
+
+Showpoint manipulator: Forces the program to display the decimal number(s) of any number, even for integers (which would just be "(integer).0")
+
+Setw: This manipulator is short term writing for "set width". This is usually used with 'cout'. It specifies the amount of characters used in an
+output. For example: With 'cout << setw(5) << 12;' the output would become '   12' with three spaces before it because '12' only uses two.
+
 ## Review Questions
 
 ## Summary
