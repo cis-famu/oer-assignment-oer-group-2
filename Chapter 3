@@ -17,7 +17,9 @@ After completing this chapter, students will be able to:
 ## Review Questions
 
 ## Summary
-
+-
+-A sequence of statements enclosed between curly braces, { and }, is called a compound statement or block of statements. A compound statement is treated as a single statement.
+-When C++ evaluates a logical expression, any nonzero value is treated as TRUE
 ## Key Terms
 
 ## Programming Exercises
