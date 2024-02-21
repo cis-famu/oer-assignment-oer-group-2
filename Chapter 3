@@ -22,9 +22,21 @@ It also decides whether or not to excute the state.
 
 ## Review Questions
 
+1. True/False: These control statements enable you to determine the order in which the statements are excuted
+
+2. which of the follwoing describes this statement: "A logical expression that allows the statemetent to be either true or false
+
+A. Cin 
+B. Boolean expression
+C. Logical statement
+D. switch atructure 
+
+3.
+
 ## Summary
 -In C++, the symbol ==, which consists of two equal signs, is called the equality operator. This differentiates from the previous assignment operator we knew as a single = sign.
--The equality operator determines whether two expressions are equal, whereas the assignment operator, =, assigns the value of an expression to a variable.
+-The equality operator determines whe
+ther two expressions are equal, whereas the assignment operator, =, assigns the value of an expression to a variable.
 -When comparing characters the values increase with the alphabet but lowercase letters have larger value then uppercase letters.
 -In a 1 way selection if an expression is true then the statement executes but if it is not true then the statement does not execute
 -If the semicolon immediately follows the closing parenthesis, the if statement will operate on the empty statement.
