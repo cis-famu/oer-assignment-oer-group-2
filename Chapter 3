@@ -33,9 +33,10 @@ or not to excute the state
 -In C++, & and | are also operators. The meaning of these operators is different from the meaning of && and ||. Using & in place of && or | in place of || might result from a typographical error
 -Relational and logical operators are evaluated from left to right
 -Boolean expressions can be manipulated or processed in either of two ways: by using int variables or by using bool variables.
--A sequence of statements enclosed between curly braces, { and }, is called a compound statement or block of statements. A compound statement is treated as a single statement.
+In a sequence of if-else statements, if more than one condition is true, only the statements associated with the first true condition will be executed. On the other hand, in a series of if statements, such as (b), if more than one condition evaluates to true, statements associated with each true condition will execute.
+-To permit more complex statements, C++ provides a structure called a compound statement or a block of statements. This is done by enclosing between curly braces, { and }.
 -When C++ evaluates a logical expression, any nonzero value is treated as TRUE
-
+-One way to address possible input failure is to check the status of the input stream variable. You can check the status by using the input stream variable as the logical expression in an if-else statement, If the last input succeeded, the input stream variable evaluates to true if it is not it evaulates to false. 
 ## Key Terms
 Logical expression
 -An expression that evaluates to true or false is called a logical expression.
@@ -43,11 +44,17 @@ Decision maker
 -Decides whether to execute the statement that follows it
 Boolean operator
 -Enable you to combine logical expressions.
+Nested
+-When one control statement is located within another
+Short-circuit evaluation
+-A process in which the computer evaluates a logical expression from left to right and stops as soon as the final value of the expression is known.
 Switch structure
 -This is used to handle multiway selection.
 
 ## Programming Exercises
 
 ## References
-Relational Operators, Rebus Press , https://press.rebus.community/programmingfundamentals/chapter/relational-operators/
+Relational Operators, Rebus Press, https://press.rebus.community/programmingfundamentals/chapter/relational-operators/
+Understanding Python If-Else Statement, Simplilearn, 5/18/23, https://www.simplilearn.com/tutorials/python-tutorial/python-if-else-statement
+JavaScript Switch Statement, W3schools, https://www.w3schools.com/js/js_switch.asp
 Editor: Andrew Ritter
