@@ -31,7 +31,7 @@ B. Boolean expression
 C. Logical statement
 D. switch atructure 
 
-3.
+3. Fill in the blank: Relational and logical expressions are evaluated from....
 
 ## Summary
 -In C++, the symbol ==, which consists of two equal signs, is called the equality operator. This differentiates from the previous assignment operator we knew as a single = sign.
