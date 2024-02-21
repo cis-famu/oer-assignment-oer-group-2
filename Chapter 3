@@ -49,10 +49,28 @@ output. For example: With 'cout << setw(5) << 12;' the output would become '   1
 ## Review Questions
 
 ## Summary
--if/else statements allow you to create a statement that give two different outcomes depending on the responses
+-In C++, the symbol ==, which consists of two equal signs, is called the equality operator. This differentiates from the previous assignment operator we knew as a single = sign.
+-The equality operator determines whether two expressions are equal, whereas the assignment operator, =, assigns the value of an expression to a variable.
+-When comparing characters the values increase with the alphabet but lowercase letters have larger value then uppercase letters.
+-In a 1 way selection if an expression is true then the statement executes but if it is not true then the statement does not execute
+-If the semicolon immediately follows the closing parenthesis, the if statement will operate on the empty statement.
+-In a 2 way selection if the value of the expression is true, statement1 executes. If the value of the expression is false, statement 2 executes
+-Boolean operators enable you to combine logical expressions.
+-In C++, & and | are also operators. The meaning of these operators is different from the meaning of && and ||. Using & in place of && or | in place of || might result from a typographical error
+-Relational and logical operators are evaluated from left to right
+-Boolean expressions can be manipulated or processed in either of two ways: by using int variables or by using bool variables.
 -A sequence of statements enclosed between curly braces, { and }, is called a compound statement or block of statements. A compound statement is treated as a single statement.
 -When C++ evaluates a logical expression, any nonzero value is treated as TRUE
+
 ## Key Terms
+Logical expression
+-An expression that evaluates to true or false is called a logical expression.
+Decision maker
+-Decides whether to execute the statement that follows it
+Boolean operator
+-Enable you to combine logical expressions.
+Switch structure
+-This is used to handle multiway selection.
 
 ## Programming Exercises
 
