@@ -35,11 +35,11 @@ Answers 1. A 2 Break 3. True
 - 
 ## Key Terms
 Counter-Controlled Loop
-  : Specifies a specific number and the loop will count until it reaches the specified number
+    : Specifies a specific number and the loop will count until it reaches the specified number
 Sentinel
-  : A special value assigned to end a while loop when it is encountered
+    : A special value assigned to end a while loop when it is encountered
 Flag controlled loop
-  : A while loop controlled by a boolean variable, and the loop ends when the boolean is no longer true
+    : A while loop controlled by a boolean variable, and the loop ends when the boolean is no longer true
 ## Programming Exercises
 
 ## References
