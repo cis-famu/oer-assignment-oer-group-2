@@ -83,25 +83,25 @@ d) fixed
 
 ## Key Terms
 Stream
-    : An infinite sequence of characters from a source to a destination
+        : An infinite sequence of characters from a source to a destination
 Cin
-    : The common input
+        : The common input
 Cout
-    : The common output
+        : The common output
 Setw
-    : A manipulator that formats the output of an expression in a specific number of columns; the default output is right-justified
+        : A manipulator that formats the output of an expression in a specific number of columns; the default output is right-justified
 Pow
-    : The pow function can be used to calculate x^y in a program, from the form (x,y)
+        : The pow function can be used to calculate x^y in a program, from the form (x,y)
 Putback
-    : Puts the last character retrieved by the function back into the input stream
+        : Puts the last character retrieved by the function back into the input stream
 Peek
-    : Peek returns the next character from the input stream but does not remove the character from the input stream.
+        : Peek returns the next character from the input stream but does not remove the character from the input stream.
 Fixed
-    : A manipulator that outputs floating-point numbers in the fixed decimal format.
+        : A manipulator that outputs floating-point numbers in the fixed decimal format.
 Showpoint
-    : A manipulator that outputs floating-point numbers with a decimal point and trailing zeros.
+        : A manipulator that outputs floating-point numbers with a decimal point and trailing zeros.
 Preprocessor
-    : Gives instructions to the compiler to preprocess the information before actual compilation starts.
+        : Gives instructions to the compiler to preprocess the information before actual compilation starts.
 
 ## Programming Excersices
 
