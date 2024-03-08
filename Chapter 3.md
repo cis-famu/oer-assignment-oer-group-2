@@ -109,27 +109,27 @@ D. switch structure
 -If certain conditions are not met, the program can be terminated using the assert function.
 -Executing a break statement in a switch statement immediately exits the switch structure.
 -One way to address possible input failure is to check the status of the input stream variable. You can check the status by using the input stream variable as the logical expression in an if-else statement. If the last input succeeded, the input stream variable evaluates to true if it is not it evaulates to false. 
-- Values of type int other than 0 can also be returned to the operating system via the return statement. The return of any value other than 0, however, indicates that something went wrong during program execution.
+-Values of type int other than 0 can also be returned to the operating system via the return statement. The return of any value other than 0, however, indicates that something went wrong during program execution.
 
 ## Key Terms
 Logical expression
-    -An expression that evaluates to true or false is called a logical expression.
+        -An expression that evaluates to true or false is called a logical expression.
 Decision maker
-    -Decides whether to execute the statement that follows it
+        -Decides whether to execute the statement that follows it
 Boolean operator
-    -Enable you to combine logical expressions.
+        -Enable you to combine logical expressions.
 Nested
-    -When one control statement is located within another
+        -When one control statement is located within another
 Short-circuit evaluation
-    -A process in which the computer evaluates a logical expression from left to right and stops as soon as the final value of the expression is known.
+        -A process in which the computer evaluates a logical expression from left to right and stops as soon as the final value of the expression is known.
 Conditional Operator
-    -A ternary operator, which means that it takes three arguments
+        -A ternary operator, which means that it takes three arguments
 Pseudocode
-    -A method involves using an informal mixture of C++ and ordinary language
+        -A method involves using an informal mixture of C++ and ordinary language
 Assert
-    -If certain conditions are not met in a program, the program can be terminated
+        -If certain conditions are not met in a program, the program can be terminated
 Switch structure
-    -This is used to handle multiway selection.
+        -This is used to handle multiway selection.
 
 ## Programming Exercises
 
