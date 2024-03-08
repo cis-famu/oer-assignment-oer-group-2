@@ -98,31 +98,31 @@ D. Using Function Names as Actions
 -Every variable must have a name, value, data type, and size
 ## Key Terms
 variable
-  : Named values that are subject to change throughout the program.A memory location 
+    : Named values that are subject to change throughout the program.A memory location 
 Function
-  : A collection of statements including variables and operators that, when run correctly, accomplish a task
+    : A collection of statements including variables and operators that, when run correctly, accomplish a task
 Initialized
-  : The first time a value is placed in a variable
+    : The first time a value is placed in a variable
 Keywords(reversed words)
-  : Words that have predefined meanings and functionalities within the programming language
+    : Words that have predefined meanings and functionalities within the programming language
 Data Structures
-  : Ways to organize data to support more efficient operations
+    : Ways to organize data to support more efficient operations
 Variable declaration
-  : Lets the compiler know the data type being stored in the computer’s  memory.
+    : Lets the compiler know the data type being stored in the computer’s  memory.
 String
-  : A storage device identified by double quotations
+    : A storage device identified by double quotations
 Loops
-  : For-loop and while-loop can execute segments of code repeatedly without having to type them out repeatedly
+    : For-loop and while-loop can execute segments of code repeatedly without having to type them out repeatedly
 Assignment operator
-  : Assigns a value to a variable
+    : Assigns a value to a variable
 Integer v.s. Floating point number
-  : Integer is a number with no decimal; therefore when multiplied or divided in code, you get no decimals, but when using a Floating point number, you have decimal points, and therefore, so does you're product or quotient
+    : Integer is a number with no decimal; therefore when multiplied or divided in code, you get no decimals, but when using a Floating point number, you have decimal points, and therefore, so does you're product or quotient
 Conditional Operator (If else)
-  : if a given condition is satisfied, then the code in the conditional segment is run, but if not, it is ignored
+    : if a given condition is satisfied, then the code in the conditional segment is run, but if not, it is ignored
 Output statement
-  : An output on the standard output device using cout and <<
+    : An output on the standard output device using cout and <<
 Software
-  : Program written to perform specific tasks
+    : Program written to perform specific tasks
 
 ## Programming Exercises
 **Grade Calculator**
