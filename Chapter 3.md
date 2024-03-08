@@ -113,23 +113,23 @@ D. switch structure
 
 ## Key Terms
 Logical expression
--An expression that evaluates to true or false is called a logical expression.
+    -An expression that evaluates to true or false is called a logical expression.
 Decision maker
--Decides whether to execute the statement that follows it
+    -Decides whether to execute the statement that follows it
 Boolean operator
--Enable you to combine logical expressions.
+    -Enable you to combine logical expressions.
 Nested
--When one control statement is located within another
+    -When one control statement is located within another
 Short-circuit evaluation
--A process in which the computer evaluates a logical expression from left to right and stops as soon as the final value of the expression is known.
+    -A process in which the computer evaluates a logical expression from left to right and stops as soon as the final value of the expression is known.
 Conditional Operator
--A ternary operator, which means that it takes three arguments
+    -A ternary operator, which means that it takes three arguments
 Pseudocode
--A method involves using an informal mixture of C++ and ordinary language
+    -A method involves using an informal mixture of C++ and ordinary language
 Assert
--If certain conditions are not met in a program, the program can be terminated
+    -If certain conditions are not met in a program, the program can be terminated
 Switch structure
--This is used to handle multiway selection.
+    -This is used to handle multiway selection.
 
 ## Programming Exercises
 
