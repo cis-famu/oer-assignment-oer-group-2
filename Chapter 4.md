@@ -33,6 +33,14 @@ Answers 1. A 2 Break 3. True
 - A flag-controlled loop is a while loop that is controlled by a boolean variable, and the loop ends when the boolean is no longer true
 - An EOF-controlled loop is a while loop that checks if the end of the file has been reached and while run until it is reached
 - The EOF function can be used with files to ensure that the program reads through the end of the file
+- A nested control structure is when (inner) control structures are placed within another (outer) control structure.
+- A for loop is a programming construct that iterates over a sequence of elements, executing a block of code for each iteration. It typically consists of an initialization step, a condition to check before each iteration, and an update step. The loop continues until the condition evaluates to false, allowing for efficient repetition and automation in code execution.
+- A do-while loop is a control structure that executes a block of code at least once before checking a condition for continuation. If the condition evaluates to true, the loop repeats; otherwise, it terminates, providing a guarantee of at least one execution of the code block.
+- To avoid issues with a counting loop being off by one value, (A.K.A. the "Off by One" problem), ensure that you have the loop control variable assigned to the right value.
+- Having a loop execute the right noumber of times can be fixed with that one simple change rather than having to add more lines of code, which may slow down the program and add unnecessary commands.
+- Debugging is an essential part of programming, requiring careful attention to syntax and logic errors.
+- Techniques like hand-tracing or using debuggers help verify algorithms, especially for loops where off-by-one errors are common, and understanding loop variations helps in ensuring program correctness.
+- If debugging becomes tedious and too challenging, it may be more efficient to start over from square one rather than persisting with a flawed program.
 ## Key Terms
 Break
     : This keyword is used to immediately exit the loop or switch case it is placed in
