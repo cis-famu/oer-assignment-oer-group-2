@@ -72,4 +72,4 @@ C++ Nested Loop (With Examples). (n.d.). Www.programiz.com. Retrieved March 8, 2
 C++ Break and Continue. (n.d.). Www.w3schools.com. https://www.w3schools.com/cpp/cpp_break.asp
 
 ‌# Editor
-Andrew Ritter
+Andrew Ritter / cam telfair
