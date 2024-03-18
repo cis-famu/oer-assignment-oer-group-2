@@ -12,7 +12,7 @@ After completing this chapter, students will be able to:
     Read data from a file (include examples)
     Write data to a file (include examples)
 
-## Introduction (Jaedon) TUESDAY
+## Introduction
 In Chapter 2, much of of C++'s input/output (I/O) basics were covered. Things like using cin and cout 
 to handle data coming in and going out of your program were explained and examples of how this works were shown. 
 This chapter goes deeper into the world of I/O operations. You'll explore statements that grab input from the standard 
@@ -20,35 +20,22 @@ input device and showcase output on the standard output device. Plus, you'll lea
 which will add some some formatting and stylingn to to your program's results. You'll also discover the limits of standard 
 I/O operations and how to break free from them. In short, this chapter goes deep into the details of using I/O devices in C++ code.
 
-## A Section Per Topic (CAM)
-
-Comments: Used to identify the authors of the program, give the dates whem its modified, and give a brief explanation of the program.
-
+## A Section Per Topic
+Comments: Used to identify the authors of the program, give the dates whem its modified, and give a brief explanation of the program. These
+are designated by using '//' before the line of comment
 Special symbols: The smallest unit for a program written in ant langauge is a token. Thry are divded into symbols, word symbols, and identifiers 
-
 Keywords: Words or symbols that cannot be used for anything but their intedned use. 
-
 Identifiers: The names of things that appear in programas such as: variables, constants, and functions. 
-
 White spaces: They seperate special symbols, reserved words, and identifiers.
-
 Data types: A set of vaules together with a set of allowed operations.
-
 Intergal: Data type that deals with intergers or numbers without a decimal place 
-
 Floating point: data type that deals with deciaml numbers
-
 Enumeration: A user defined data type 
-
 Type conversion: Used to aviod type coercion by providing explicit type conversion through the use of a cast operator 
-
 String: A sequence of zero or more characters.
+Syntax: Syntax of language tells what is legal and what isn't. 
+Statement Terminator: The semi colon must end all C++ statements. 
 
-syntax: Syntax of language tells what is legal and what isn't. 
-
-statement terminator: The semi colon must end all C++ statements. 
-
-Type c
 ## Review Questions 
 1. True/False: When using cin and cout you must #include <iostream> in the header.
 2. In C++ , an infinite sequence of characters from a source to a destination is considered a ________.
@@ -130,5 +117,4 @@ Write a program that allows the user to input the temperature in Celsius and out
 ## References (EVERYONE)
 Basic Input/Output. Cplusplus. https://cplusplus.com/doc/tutorial/basic_io/
 Manipulators in C++ with Examples. GeeksForGeeks. https://www.geeksforgeeks.org/manipulators-in-c-with-examples/
-C++ Preprocessor. Tutorialspoint. https://www.tutorialspoint.com/cplusplus/cpp_preprocessor.htm 
-
+C++ Preprocessor. Tutorialspoint. https://www.tutorialspoint.com/cplusplus/cpp_preprocessor.html
