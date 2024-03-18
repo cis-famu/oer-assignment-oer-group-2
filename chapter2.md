@@ -109,7 +109,7 @@ This program is supposed to display the product of n multiplied by n - 1. Find t
     cout << "The product of " << n << " and " << n - 1 << " is: " << result << :endl;
 
     return 0;
-}
+    }
 
 Write a program that allows the user to input the temperature in Celsius and outputs the temperature in Kelvin and Fahrenheit. 
 
