@@ -94,11 +94,11 @@ Preprocessor
 
 This program is supposed to display the product of n multiplied by n - 1. Find the logic and syntax errors. 
 
-#include <iostream>
 
-int main() {
+
+    #include <iostream>
+    int main() {
     int n;
-
 
     cout << "Enter a positive integer: "
     cin >> n;
