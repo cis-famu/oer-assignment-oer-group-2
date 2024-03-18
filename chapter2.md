@@ -114,7 +114,7 @@ int main() {
 Write a program that allows the user to input the temperature in Celsius and outputs the temperature in Kelvin and Fahrenheit. 
 
 
-## References (EVERYONE)
+## References
 Basic Input/Output. Cplusplus. https://cplusplus.com/doc/tutorial/basic_io/
 Manipulators in C++ with Examples. GeeksForGeeks. https://www.geeksforgeeks.org/manipulators-in-c-with-examples/
 C++ Preprocessor. Tutorialspoint. https://www.tutorialspoint.com/cplusplus/cpp_preprocessor.html
