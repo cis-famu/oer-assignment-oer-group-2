@@ -3,14 +3,14 @@
 ## OBJECTIVES
 After completing this chapter, students will be able to:
 
-    Identify input and output streams
-    Read data from the standard input device
-    Describe input stream functions get, ignore, putback, and peek
-    Write data to the standard output device
-    Use manipulators in a program to format output
-    Perform input and output operations using the string data type
-    Read data from a file (include examples)
-    Write data to a file (include examples)
+Identify input and output streams
+Read data from the standard input device
+Describe input stream functions get, ignore, putback, and peek
+Write data to the standard output device
+Use manipulators in a program to format output
+Perform input and output operations using the string data type
+Read data from a file
+Write data to a file
 
 ## Introduction
 In Chapter 2, much of of C++'s input/output (I/O) basics were covered. Things like using cin and cout 
