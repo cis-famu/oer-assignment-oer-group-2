@@ -29,5 +29,5 @@ Upon completion of this unit, students will be able to:
 
 ## References
 
-‌# Editor
-Andrew Ritter / cam telfair
+‌## Editor
+Andrew Ritter
