@@ -67,7 +67,7 @@ Functions in C++. (2015, June 20). GeeksforGeeks. https://www.geeksforgeeks.org/
 D. S. Malik. (n.d.). C++ ProgrammingFrom Problem Analysis to Program Design, 008th Ed
 What’s the difference between declaring functions before or after main()? (n.d.). Stack Overflow. Retrieved April 1, 2024, from https://stackoverflow.com/questions/21718361/whats-the-difference-between-declaring-functions-before-or-after-main
 Use of void function? - C++ Forum. (n.d.). Cplusplus.com. Retrieved April 1, 2024, from https://cplusplus.com/forum/beginner/242392/
-EDA Playground. (n.d.). Www.edaplayground.com. Retrieved April 1, 2024, from https://www.edaplayground.com/x/4yxv
+EDA Playground. (n.d.). www.edaplayground.com. Retrieved April 1, 2024, from https://www.edaplayground.com/x/4yxv
 
 ‌## Editor
 Andrew Ritter
