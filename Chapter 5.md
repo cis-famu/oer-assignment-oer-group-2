@@ -43,9 +43,6 @@ Upon completion of this unit, students will be able to:
   -  In a complex program, you can write a separate program to test the function, called a driver program
   -  A stub is a function that is not fully coded
   -  When several functions have the same name, this is called function overloading; this is used when you have the same action for different data sets
-  -  
-
-    
 ## Key Terms
 
 
