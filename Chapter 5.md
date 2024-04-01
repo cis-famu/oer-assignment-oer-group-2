@@ -55,7 +55,21 @@ Answers 1. driver  2. True  3. C.) always do not
   -  A stub is a function that is not fully coded
   -  When several functions have the same name, this is called function overloading; this is used when you have the same action for different data sets
 ## Key Terms
-
+Value-Returning Functions - Functions that return values that are defined with a return type. These functions use the return statement to provide a value of a data type. It's worth noting that in all the programs we've encountered this far, the main function consistently utilizes a return statement to return the value 0.
+Void VaFunctions - Functions that do NOT have a return type. Since there is no return type, the function doesn't use a return statement to return a value.
+Data type - The return type of a value-returning function. Example: a function returning a string variable means the function's returning data type is a string.
+Return statement - A return statement basically returns the value of a value-returning function via the "return ..." statement outside of the function. An example would be when you need a value that is computed in one function to be shared into a seperate function.
+Function Prototype - A function head that has no body, leaving only what the general function is supposed to be without including the specifics of what that function is doing. A function prototype is NOT the definition of a function. It provides the name, data type, the included number(s), and the function's return value type. It is supposed to be the bare minimum to allow the C++ program to use the function. The function will be fully defined later in the program when needed.
+Value Parameters - Parameters that are a copy of the value of an actual parameter. Basically, value parameters are used to provide a copy of another parameter so the value can be used without changing the original parameter's value.
+Reference Parameters - These functions basically know the exact memory address of the original parameter, so it can use and/or manipulate the original value without having to copy the original parameter. These are best used when you don't want to copy large amounts of data.
+Local Variables - Variables that are declared and used only within the body of a certain function. These variables are "local" because they are only used within a certain function and nowhere else, therefore making it "local" to the function the same way you are local to your hometown (function), not exactly to your planet (entire code).
+Local Identifier - Identifiers declared within a function or block. These are not accessible outside of the function it's local to.
+Global Identifier - Identifiers declared outside of all function definitions.
+Nested Block - A block declared within another block, like how a nested if-statement is an if-statement inside another if-statement.
+External Variable - A variable declared within a function that is also declared elsewhere in the code. These are declared by typing "extern (data type) (variable)".
+Automatic Variable - A variable that is allocated memory space once a block is entered and is then automatically deallocated memory space once the block is exited.
+Driver Program - A program that is designed to test a function. These are best for troubleshooting and better understanding how well your code is working.
+Function Overloading - When you create several functions with the same name, but they have different formal parameter lists.
 
 
 ## Programming Exercises
