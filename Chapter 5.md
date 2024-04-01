@@ -21,17 +21,19 @@ Upon completion of this unit, students will be able to:
 
 ## Review Questions
 1. A program that tests a function is called a _____ program.
+  
 2. TRUE/FALSE: When using a value-returning function, you must have a return type.
+
 3. Formal parameters are ______ variables, while actual parameters _____ have to be variables
 A.) never, always
 B.) sometimes, always
 C.) always do not
 D.) sometimes, never
 
-Answers 1. driver 2. True 3. C.) always do not
+Answers 1. driver  2. True  3. C.) always do not
 
 ## Summary
-  - A function in C++, much like a function in algebra, serves the purpose of computation and with given numbers, the program will use the function to compute values.
+  - A function in C++, much like a function in algebra, serves the purpose of computation, and with given numbers, the program will use the function to compute values.
   - Functions, also called modules, are like miniature programs that enable you to divide a program into manageable tasks.
   - Pre-defined functions are organized into libraries, and you can call them into your file by using header files such as iostream and cmath
   - Functions purpose also serve to increase the readability of the program by decreasing the complexity of the main
@@ -65,6 +67,7 @@ Functions in C++. (2015, June 20). GeeksforGeeks. https://www.geeksforgeeks.org/
 D. S. Malik. (n.d.). C++ ProgrammingFrom Problem Analysis to Program Design, 008th Ed
 What’s the difference between declaring functions before or after main()? (n.d.). Stack Overflow. Retrieved April 1, 2024, from https://stackoverflow.com/questions/21718361/whats-the-difference-between-declaring-functions-before-or-after-main
 Use of void function? - C++ Forum. (n.d.). Cplusplus.com. Retrieved April 1, 2024, from https://cplusplus.com/forum/beginner/242392/
+EDA Playground. (n.d.). Www.edaplayground.com. Retrieved April 1, 2024, from https://www.edaplayground.com/x/4yxv
 
 ‌## Editor
 Andrew Ritter
