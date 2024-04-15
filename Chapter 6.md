@@ -21,7 +21,7 @@ After completing this chapter, students will be able to:
 ## A Section Per Topic
 
 ## Review Questions
-1. In a two-dimensional array is stored in ______-_______ format
+1. In a two-dimensional array is stored in (______)-(_______) format
 2. f
 3. f
 
