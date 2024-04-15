@@ -56,9 +56,16 @@ Answers 1) row  2) B. ARRAY_SIZE - 1 3) FALSE
 - The number of dimensions of an array in C++ is essentially unlimited, and you increase the dimension by adding another pair of brackets in the declaration
 
 ## Key Terms
-
-
-
+Array- A collection of a fixed number of components (also called elements) all of the same data type and in contiguous (that is, adjacent) memory space.
+One-dimensional array- An array in which the components are arranged in a list form
+Index- Any expression whose value is a nonnegative integer
+Dynamic Arrays- Arrays that are created by using pointers during program execution
+Aggregate operation- Any operation that manipulates the entire array as a single unit
+Base address-  The address of the first array component
+Selection sort- Rearrange the list by selecting an element in the list and moving it to its proper position.
+Parallel Arrays- Two (or more) arrays are called parallel if their corresponding components hold related information
+Row processing- Process a particular row of the array,
+Column processing- Process a particular column of the array
 ## Programming Exercises
 
 
