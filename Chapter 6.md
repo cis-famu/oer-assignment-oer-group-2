@@ -71,6 +71,8 @@ Column processing- Process a particular column of the array
 
 
 ## References
-
+C++ Functions. (n.d.). Www.w3schools.com. https://www.w3schools.com/cpp/cpp_functions.asp
+‌C++ Arrays. (n.d.). Www.w3schools.com. https://www.w3schools.com/cpp/cpp_arrays.asp
+‌Vector in C++ STL. (2015, December 7). GeeksforGeeks. https://www.geeksforgeeks.org/vector-in-cpp-stl/
 ‌## Editor
 Andrew Ritter
